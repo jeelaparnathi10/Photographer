@@ -1,0 +1,221 @@
+body {
+    background-color: rgb(255, 246, 238);
+    margin: 0px;
+    padding: 0px;
+}
+.logo {
+    border: 7px solid brown;
+    border-radius: 250px;
+    display: inline-block;
+    margin: 45px 0px 0px 60px;
+    padding: 17px 17px 17px 17px;
+    font-size: unset;   
+    color: brown;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.right {
+    /*border: 2px solid black;*/
+    display: inline-block;
+    position: absolute;
+    right: 78px;
+    top: 37px;
+}
+.navbar {
+    display: inline-block;
+    font-family: Arial;
+    font-weight: 600;
+}
+.navbar li {
+    display: inline-block;
+    margin: 17px 0px 0px 50px;
+    padding: 0px 0px 0px 0px;
+}
+.navbar li a {
+    color: gray;
+    text-decoration: none;
+    padding: 44px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.navbar li a:hover {
+    color: black;
+}
+.button1 {
+    margin: 0px 0px 0px 50px;
+    padding: 10px 10px 10px 10px;
+    border: 5px;
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 40px;
+    font-family: Arial;
+    font-size: small;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.button1 a {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+.button2 {
+    border: 5px;
+    background-color: red;
+    margin: 0px 0px 0px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 90px;
+    height: 40px;
+    color: white;
+    font-family: arial;
+    font-size: small;
+    border-radius: 10px;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    font-size: 15vh;
+    font-weight: 500;
+    padding: 0px 20px 0px 0px;
+    margin: 17px 0px 0px 0px;
+    font-family: monospace;
+}
+.color1 {
+    color: black;
+}
+.color2 {
+    color: #642a2a;
+}
+.color3 {
+    color: rgb(150, 28, 28);
+}
+.color4 {
+    color: rgb(150, 55, 55);
+}
+.p2 {
+    text-align: center;
+    font-size: x-large;
+    color: gray;
+    font-family: system-ui;
+}
+#box-container {
+        height: 600px;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+        margin-bottom: -282px;
+}
+#box {
+    background-color: #ffb14d;
+    width: 80%;
+    height: 50%;
+    position: relative;
+}
+img{
+    height: 125%;
+    width: 20%;
+    padding-left: 60px;
+    position: absolute;
+    bottom: 1px;
+}
+.hi {
+    border: 12px solid black;
+    border-radius: 250px;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 25%;
+    font-size: xx-large;
+    color: white;
+    font-weight: bold;
+    margin-top: 0%;
+}
+.service {
+    padding: 10px;
+    margin-left: 25%;
+    font-size: xxx-large;
+    color: black;
+    font-weight: bold;
+    margin-top: 0%;
+}
+.desci {
+    padding: 10px;
+    margin-left: 25%;
+    font-size: x-large;
+    color: gray;
+    font-weight: bold;
+    margin-top: -3%;
+}
+.b1 {
+    display: inline-block;
+    border-right: 2px solid gray;
+    margin-left: 11%;
+    background-color: rgb(255, 246, 238);
+}
+.c1 {
+    color: black;
+    font-weight: bolder;
+}
+.s1 {
+    color: gray;
+}
+.b2 {
+    display: inline-block;
+    border-right: 2px solid gray;
+    margin-left: 7%;
+    background-color: rgb(255, 246, 238);
+    padding-right: 17px;
+}
+.y1 {
+    color: black;
+    font-weight: bolder;
+}
+.t1 {
+    color: gray;
+}
+.b3 {
+    display: inline-block;
+    border-right: 2px solid gray;
+    margin-left: 7%;
+    background-color: rgb(255, 246, 238);
+    padding-right: 17px;
+}
+.p1 {
+    color: black;
+    font-weight: bolder;
+}
+.best1 {
+    color: gray;
+}
+.img {
+    height: 15%;
+    width: 15%;
+    display: inline-block;
+    right: 15%;
+    top: 86%;
+}
+.fa-solid {
+    font-weight: 900;
+    font-size: xxx-large;
+    margin-left: 86%;
+}
+#right {
+    font-weight: 900;
+    font-size: xxx-large;
+    margin: auto;
+}
+#r1 {
+    font-weight: 900;
+    font-size: xxx-large;
+    margin: auto;
+}
+#r2 {
+    font-weight: 900;
+    font-size: xxx-large;
+    margin: auto;
+}
+#r3 {
+    font-weight: 900;
+    font-size: xxx-large;
+    margin: auto;
+}
